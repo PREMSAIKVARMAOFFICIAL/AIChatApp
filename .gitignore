@@ -1,0 +1,14 @@
+# Xcode build artifacts
+build/
+DerivedData/
+
+# Xcode user-specific data
+*.xcuserstate
+*.xcuserdata/
+*.xcworkspace/
+
+# macOS system files
+.DS_Store
+
+# Logs & temporary files
+*.log
